@@ -1,0 +1,12 @@
+{
+  "name": "bmd-auth-server",
+  "version": "1.0.0",
+  "description": "Custom Key & Expiry Auth Server for BMD App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
